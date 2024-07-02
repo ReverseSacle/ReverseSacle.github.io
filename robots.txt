@@ -1,0 +1,13 @@
+User-agent: Bingbot
+Allow: /$
+Allow: /sitemap.xml
+Allow: /robots.txt
+Allow: /images/favicon.ico
+Allow: /images/failure.ico
+Allow: /computer-science/shoka-theme/supplement-for-shoka-theme/
+Disallow: /
+
+Sitemap: https://www.reversesacle.com/sitemap.xml
+
+User-agent: *
+Disallow: /
